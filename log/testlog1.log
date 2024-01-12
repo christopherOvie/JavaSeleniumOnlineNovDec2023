@@ -1,0 +1,4 @@
+2023-12-08 21:39:33,018 [main] INFO Log4jlogin - Chrome Browser Instance opened
+2023-12-08 21:39:33,157 [main] INFO Log4jlogin - Window Maximise
+2023-12-08 21:39:33,172 [main] INFO Log4jlogin - implicitly wait given
+2023-12-08 21:39:39,214 [main] INFO Log4jlogin - Failure -Web element not found

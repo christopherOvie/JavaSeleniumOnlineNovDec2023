@@ -1,0 +1,64 @@
+type of datatype
+
+primitive =8 int,char,float,double,long,byte,short,boolean
+
+
+
+non primitive=4=String, Array, Interface,Enum
+
+
+
+aall stored in random access memory
+
+datatype is something consumes
+
+variable double quou
+
+datatype variableName= variableValue
+
+
+
+datatype is a container hold the value
+
+
+
+cannot create a static variable inside a method
+
+
+
+interpreter passes the instruction from top to bottom
+
+
+
+A1..A String is a predefined classs in Java
+
+A String is a non primitive datatype as well
+
+A String is a seqquence of character(given inside double quote)
+
+4..Spaces given inside doyuble quotes are also considered as String
+
+
+
+
+
+Java implrementation to achieve independency
+
+compilationflow-> source code -->javac compiler-->compiled code/byte code(.class file)
+
+
+
+static variable get memory allocation at the time of class loading
+
+local variable get memory allocation at the time of object creation
+
+global variable get memory allocation once object is created of that class
+
+
+
+initialisind and defining a value are the sak
+
+
+
+
+
